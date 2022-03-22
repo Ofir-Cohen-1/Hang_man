@@ -1,0 +1,16 @@
+div#errors {
+    color: red;
+    padding: 5px 0 25px 0;
+}
+
+.success {
+    color: rgb(33, 209, 33);
+}
+
+.error {
+    color: red;
+}
+
+div#msg {
+    white-space: pre-wrap;
+}
